@@ -49,7 +49,7 @@ https://drive.google.com/open?id=1ODreB7NAsqFnDZ0VN5vEE7fq6XB7AQMq
     <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/orders.jpeg" width="30%"></th>
   </tr>
 </table>
-## echo "# eCovidApp" >> README.md
+## echo "# myhomie" >> README.md
 git init
 git commit -m "first commit"
 git remote add origin https://github.com/gispatial/myhomie.git
