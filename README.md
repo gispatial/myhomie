@@ -13,6 +13,20 @@ https://drive.google.com/open?id=1ODreB7NAsqFnDZ0VN5vEE7fq6XB7AQMq
     <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/explore.jpeg" width="30%"></th>
   </tr>
 </table>
+<table>
+  <tr>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/splashscreen.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/home.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/explore.jpeg" width="30%"></th>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/splashscreen.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/home.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/explore.jpeg" width="30%"></th>
+  </tr>
+</table>
 ## echo "# eCovidApp" >> README.md
 git init
 git commit -m "first commit"
