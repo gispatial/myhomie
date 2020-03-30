@@ -15,16 +15,44 @@ https://drive.google.com/open?id=1ODreB7NAsqFnDZ0VN5vEE7fq6XB7AQMq
 </table>
 <table>
   <tr>
-    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/splashscreen.jpeg" width="30%"></th>
-    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/home.jpeg" width="30%"></th>
-    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/explore.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/acc.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/admin-nav.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/call.jpeg" width="30%"></th>
   </tr>
 </table>
 <table>
   <tr>
-    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/splashscreen.jpeg" width="30%"></th>
-    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/home.jpeg" width="30%"></th>
-    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/explore.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/category.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/chat.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/dashboard1.jpeg" width="30%"></th>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/dashboard2.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/dashboard3.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/descriptions.jpeg" width="30%"></th>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/listings.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/inventory.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/dm.jpeg" width="30%"></th>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/lists.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/msg.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/orders.jpeg" width="30%"></th>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/rooms.jpeg" width="30%"></th>
+    <th><img src="" width="30%"></th>
+    <th><img src="" width="30%"></th>
   </tr>
 </table>
 ## echo "# eCovidApp" >> README.md
