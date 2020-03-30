@@ -8,9 +8,9 @@ https://drive.google.com/open?id=1ODreB7NAsqFnDZ0VN5vEE7fq6XB7AQMq
 ## Screenshot
 <table>
   <tr>
-    <th><img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="30%"></th>
-    <th><img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="30%"></th>
-    <th><img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/splashscreen.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/home.jpeg" width="30%"></th>
+    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/explore.jpeg" width="30%"></th>
   </tr>
 </table>
 ## echo "# eCovidApp" >> README.md
