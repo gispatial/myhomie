@@ -6,6 +6,7 @@ https://drive.google.com/open?id=1ODreB7NAsqFnDZ0VN5vEE7fq6XB7AQMq
  
  …or create a new repository on the command line
 ## Screenshot
+<center><img src="https://github.com/gispatial/myhomie/blob/master/assets/rooms.jpeg" width="50%"></center>
 <table>
   <tr>
     <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/splashscreen.jpeg" width="30%"></th>
@@ -46,13 +47,6 @@ https://drive.google.com/open?id=1ODreB7NAsqFnDZ0VN5vEE7fq6XB7AQMq
     <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/lists.jpeg" width="30%"></th>
     <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/msg.jpeg" width="30%"></th>
     <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/orders.jpeg" width="30%"></th>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th><img src="https://github.com/gispatial/myhomie/blob/master/assets/rooms.jpeg" width="30%"></th>
-    <th><img src="" width="30%"></th>
-    <th><img src="" width="30%"></th>
   </tr>
 </table>
 ## echo "# eCovidApp" >> README.md
