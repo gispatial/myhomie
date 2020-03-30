@@ -1,8 +1,15 @@
 # myhomie app room rental and scheduler
  My Homie 3.0 is Malaysian based 0 Deposit business which all of all rooms this company provided are affordable and the hassles free from tenancy agreement and contract.
 #reactnative #android #apk #sdk #android_signed_apk
+<table>
+  <tr>
+    <th><img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="30%"></th>
+    <th><img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="30%"></th>
+    <th><img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="30%"></th>
+  </tr>
+</table>
 https://drive.google.com/open?id=1ODreB7NAsqFnDZ0VN5vEE7fq6XB7AQMq
- <img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="100%">
+ 
  …or create a new repository on the command line
 ## Screenshot
 <img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/nc.png" width="100%">
@@ -33,5 +40,4 @@ $ expo start
 ## Expo demo link
 https://expo.io/@gispatialtech/myhomie
 
-<img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/pandemic.png" width="100%">
 This development are done by JustEd@R.Aidy - Sr. GispatialTech Frontend Software Engineer (full stack)
